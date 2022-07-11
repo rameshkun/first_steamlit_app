@@ -2,4 +2,4 @@ import streamlit
 
 streamlit.title('My parents new healthy reason!!')
 
-streamli.title('New born baby!!')
+streamlit.title('New born baby!!')
